@@ -1,0 +1,7 @@
+C:\Users\mcyal\source\repos\labb4\labb4\bin\Debug\labb4.exe.config
+C:\Users\mcyal\source\repos\labb4\labb4\bin\Debug\labb4.exe
+C:\Users\mcyal\source\repos\labb4\labb4\bin\Debug\labb4.pdb
+C:\Users\mcyal\source\repos\labb4\labb4\obj\Debug\labb4.csprojResolveAssemblyReference.cache
+C:\Users\mcyal\source\repos\labb4\labb4\obj\Debug\labb4.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\source\repos\labb4\labb4\obj\Debug\labb4.exe
+C:\Users\mcyal\source\repos\labb4\labb4\obj\Debug\labb4.pdb
