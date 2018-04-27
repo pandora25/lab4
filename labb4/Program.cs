@@ -10,8 +10,6 @@ namespace labb4
     {
         static void Main(string[] args)
         {
-            
-
             while (true)
             {
                 Console.WriteLine("please enter an interger number ?");
@@ -38,42 +36,14 @@ namespace labb4
                 }
                 Console.WriteLine();
                 Console.WriteLine("whould you like to Continue (y/n) ? ");
+
                 string input = Console.ReadLine();
 
-                if (input.ToLower() == "y")
-                {
-                    continue;
-                }
-                else
+                if (input.ToLower() != "y")
                 {
                     break;
                 }
-
             }
         }
     }
 }
-
-
-
-
-
-//Console.WriteLine("PLEASE ENTER A NUMBER ? ");
-
-//            Console.WriteLine();
-//            int input = int.Parse(Console.ReadLine());
-
-//Console.WriteLine("***"+ "   ***"+ "      ***");
-
-//            for (int i = 1; i <= input; i++)
-//            {
-//                double sqr = Math.Pow(i, 2);
-
-//double cubed = Math.Pow(i, 3);
-//Console.Write(i + " ");
-
-//                Console.Write(sqr + "  ");
-
-//                Console.WriteLine(cubed + "  ");
-
-//            }
